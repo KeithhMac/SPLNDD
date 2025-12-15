@@ -1,0 +1,10 @@
+@media (max-width: 789px) {
+  #LP-about-LC {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #LP-about-LC-text {
+    width: 85%;
+    padding: 3rem 0;
+  }
+}
